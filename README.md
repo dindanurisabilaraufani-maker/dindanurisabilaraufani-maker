@@ -6,6 +6,9 @@ I'm a Geophysics student, currently studying at Universitas Gadjah Mada!
 - Studying Python 
 - Exploring Git Hub
 
+  ---
+  
+
 📫 **How to reach me**
 - linkedIn 
 - Email (dindanurisabilaraufani@mail.ugm.ac.id)
