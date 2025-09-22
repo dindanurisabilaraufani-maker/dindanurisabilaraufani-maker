@@ -8,14 +8,14 @@ I'm a Geophysics student, currently studying at Universitas Gadjah Mada!
 - Exploring GitHub
 - Using Visual Studio Code (VS Code)
 
-  ---
+---
 
 🚀 **What I Like to Do**
 - Reading novels
 - Listening to relaxing kinds of music
 - Watching movies, especially fantasy
 
- ---
+---
 
 📫 **How to reach me**
 - linkedIn (www.linkedin.com/in/dindanurisabilaraufani)
