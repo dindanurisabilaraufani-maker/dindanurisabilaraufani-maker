@@ -1,6 +1,6 @@
-## Hi I am Abel 👋
+# Hi! Welcome to Abel's Page🙌🌸
 
-I'm a Geophysics student, currently studying at Universitas Gadjah Mada!
+I'm a Geophysics student, currently studying at Universitas Gadjah Mada!🤗
 
 ---
 
@@ -23,6 +23,10 @@ I'm a Geophysics student, currently studying at Universitas Gadjah Mada!
 - LinkedIn (www.linkedin.com/in/dindanurisabilaraufani)
 - Email (dindanurisabilaraufani@mail.ugm.ac.id)
 - Instagram (https://www.instagram.com/isabilable)
+
+---
+
+✨*Feel free to connect or collaborate with me! I'm always excited to meet new people, share ideas, and learn together!*🤝
 
 
 
