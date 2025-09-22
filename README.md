@@ -26,7 +26,7 @@ I'm a Geophysics student, currently studying at Universitas Gadjah Mada!🤗
 
 ---
 
-✨*Feel free to connect or collaborate with me! I'm always excited to meet new people, share ideas, and learn together!*🤝
+*✨Feel free to connect or collaborate with me! I'm always excited to meet new people, share ideas, and learn together!🤝*
 
 
 
