@@ -2,6 +2,8 @@
 
 I'm a Geophysics student, currently studying at Universitas Gadjah Mada!
 
+---
+
 💻 **Currently Learning**
 - Geophysics
 - Python Programming
